@@ -1,3 +1,3 @@
 # CodeWars Katas by Andre
 
-Github repo off all completed CodeWars Katas
+Github repo with all of my completed CodeWars Katas
