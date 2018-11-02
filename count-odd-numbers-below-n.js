@@ -1,9 +1,4 @@
-function oddCount(n) {
-  let newN = n - 2;
-  if (newN <= 0) {
-    return oddCount(newN);
-  }
-}
+const oddCount = (n) => Math.floor(n/2)
 
 // Basic Tests
 
