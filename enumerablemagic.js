@@ -1,6 +1,4 @@
 function one(arr, fun) {
-  // ...
-  // place to hold the status
   let result = arr.map(fun).filter((item) => item === true).length == 1;
   return result;
 }
